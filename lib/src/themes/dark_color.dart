@@ -9,7 +9,7 @@ class LightColor {
   static const Color skyBlue = Color(0XFF2890C8);
   static const Color lightBlue = Color(0XFF5C3DFF);
 
-  static const Color orange = Color(0XFFE41F7B);
+  static const Color orange = Color(0XFFE65829);
   static const Color red = Color(0XFFAF0000);
 
   static const Color lightGrey = Color(0XFFE1E2E4);
